@@ -1,0 +1,15 @@
+# ninja log v5
+0	72	1702553737102568924	build.ninja	5d82ef047af3241c
+18	554	1702552603539253388	CMakeFiles/patato_library.dir/libs/patato-library/Prediction.cpp.o	371458c1128188d0
+1166	1211	1702552604201410000	libpatato_library.a	f2b8296d0916c99d
+5	1109	1702553043684694112	CMakeFiles/RMA_example.dir/main.cpp.o	c4a7a7580f32b719
+18	555	1702552603539253596	CMakeFiles/patato_library.dir/libs/patato-library/PatatoClass.cpp.o	e6959b8cb8de23fe
+18	1166	1702552604151130334	CMakeFiles/patato_library.dir/libs/patato-library/PatatoClassifier.cpp.o	bd94ef29b6084790
+1109	1182	1702553043760828949	RMA_example	8400953002de14f9
+1	76	1702553737102568924	build.ninja	5d82ef047af3241c
+6	452	1702553737561272405	CMakeFiles/potato_library.dir/libs/potato-library/Prediction.cpp.o	94c5a2053f21eb46
+6	452	1702553737561301696	CMakeFiles/potato_library.dir/libs/potato-library/PotatoClass.cpp.o	d77bab1a6e991814
+5	1044	1702553738152212891	CMakeFiles/RMA_example.dir/main.cpp.o	e68223ca1b7d0e65
+6	1074	1702553738183469101	CMakeFiles/potato_library.dir/libs/potato-library/PotatoClassifier.cpp.o	dcbbedbb9e467384
+1075	1103	1702553738216903000	libpotato_library.a	d3f6223c53930f8e
+1103	1150	1702553738260792938	RMA_example	d0851acc79400aaa
